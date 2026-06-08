@@ -1,0 +1,10 @@
+# ignore all
+/*
+
+# except these files
+!.gitignore
+!hooks/
+!skills/
+!prompts/
+!settings.json
+!statusline.sh
